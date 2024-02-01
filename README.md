@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a student at Epitech, passionate about softwar
 
 ## 🚀 My GitHub Stats
 
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAAYYA&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAYYA&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 
