@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a student at Epitech, passionate about softwar
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/damian-gil)
 
 ## 📚 Projects and Interests
 
@@ -24,6 +24,6 @@ Here, you'll find a range of projects from my academic journey and personal expe
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) for any collaborations, questions, or just to say hi!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/damian-gil) for any collaborations, questions, or just to say hi!
 
 Thank you for visiting my profile. Stay tuned for more updates and exciting projects!
